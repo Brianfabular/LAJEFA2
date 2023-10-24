@@ -137,7 +137,7 @@
                                                 </div>
                                             </li>
                                             <li><a href="{{route('app.index')}}" class="nav-link menu-title text-white">Home</a></li>
-                                            
+
                                             <!---<li><a href="cart/list.html" class="nav-link menu-title text-white">Cart</a></li>--->
                                             <li><a href="{{route('AboutUs.index')}}" class="nav-link menu-title text-white">About Us</a></li>
                                             <!---<li><a href="contact-us.html" class="nav-link menu-title text-white">Contact Us</a>--->
@@ -180,7 +180,7 @@
                                         </div>
                                         <div class="onhover-div profile-dropdown">
                                             <ul>
-                                               
+
                                                             <li>
                                                                 <a href="{{route('shop.index')}}" class="d-block">Buy and Sell</a>
                                                             </li>
@@ -188,17 +188,17 @@
                                                                 <a href="#" class="d-block">Industria And Heavy-Agri</a>
                                                             </li>
                                                             <li>
-                                                                <a href="#" class="d-block">Waste Management</a>
-                                                                
-                                                            <li>  
+                                                                <a href="" class="d-block">Waste Management</a>
+
+                                                            <li>
                                                                         <a href="#" class="d-block">Hazardous Waste Categories</a>
                                                             </li>
-                                                                
-                                                            
+
+
                                                             <li>
                                                                 <a href="#" class="d-block">Chemical Distributor</a>
                                                             </li>
-                                               
+
 
                                             </ul>
                                         </div>
@@ -297,7 +297,7 @@
             </li>
         </ul>
     </div>
-    
+
     @yield('content')
 
     <div id="qvmodal"></div>
@@ -327,13 +327,13 @@ Sitio Lupa, Mandaue City, 6014 Cebu</span></span>
                                 </li>
                                 <li>
                                     <span><b>Email:</b><span class="font-light"> Lajefatrading@gmail.com</span></span>
-                                    
+
                                 </li>
                                 <li>
                                 <span><b>Facebook:</b><span class="font-light"> LaJefaTradingIncorporated</span></span>
-                                    
+
                                 </li>
-                                
+
                             </ul>
                         </div>
                     </div>
@@ -418,7 +418,7 @@ Sitio Lupa, Mandaue City, 6014 Cebu</span></span>
                     <div class="col-xl-3 col-lg-4 col-sm-6 d-none d-sm-block">
                         <div class="footer-newsletter">
                             <h3>Let’s stay in touch</h3>
-                            
+
                            <div class="form-newsletter">
                                 <div class="input-group mb-4">
                                     <input type="text" class="form-control color-4" placeholder="Your Email Address">
@@ -428,9 +428,9 @@ Sitio Lupa, Mandaue City, 6014 Cebu</span></span>
                                  <!---<p class="font-dark mb-0">Keep up to date with our latest news and special offers.
                                 </p>-->
                             </div>
-                            
+
         <div class="map-responsive " >
-         <iframe class="" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.0400413225343!2d123.93852081479714!3d10.338680792619472!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a99955d5160f83%3A0x7cfea8278e56dc47!2sLa%20Jefa%20Trading%20Inc!5e0!3m2!1sen!2sph!4v1666754940409!5m2!1sen!2sph" width="400" height="400" frameborder="0" style="border:0" allowfullscreen></iframe> 
+         <iframe class="" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.0400413225343!2d123.93852081479714!3d10.338680792619472!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a99955d5160f83%3A0x7cfea8278e56dc47!2sLa%20Jefa%20Trading%20Inc!5e0!3m2!1sen!2sph!4v1666754940409!5m2!1sen!2sph" width="400" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
         </div>
                         </div>
                     </div>
@@ -455,7 +455,7 @@ Sitio Lupa, Mandaue City, 6014 Cebu</span></span>
                                         alt="payment icon">
                                 </a>
                             </li>
-                        
+
                         </ul>
                         <!---<ul>
                             <li class="font-dark">We accept:</li>
